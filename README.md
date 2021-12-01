@@ -1,9 +1,9 @@
 # Resources
 A collection of resources I have used and found useful in my work. 
 
-#Papers
+# Papers
 
-#Software Development
+# Software Development
 
-#Data Science
+# Data Science
 
