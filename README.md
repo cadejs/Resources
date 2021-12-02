@@ -16,7 +16,6 @@ A collection of resources I have used and found useful in my work.  These will l
 - [Scaling and universality in urban economic diversification](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0937)
 - [Demography and the emergence of universal patterns in urban systems](https://www.santafe.edu/research/results/papers/7702-demography-and-the-emergence-of-universal-pat)
 - [A Multi-Scale Analysis of 27,000 Urban Street Networks: Every US City, Town, Urbanized Area, and Zillow Neighborhood](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943038) 
-- [A Multi-Scale Analysis of 27,000 Urban Street Networks: Every US City, Town, Urbanized Area, and Zillow Neighborhood](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2943038)  
 -  [Geocoding of Worldwide Patent Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)  
 -  [MIT Sensible City Lab - Interesting Research/Visuals](https://senseable.mit.edu/) 
 -  [The persistence of ancient settlements and urban sustainability](https://www.pnas.org/content/118/20/e2018155118)
@@ -53,7 +52,7 @@ A collection of resources I have used and found useful in my work.  These will l
 -  [Clustering Algorithms w/ Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
 -  [Dashboarding App for Python ](https://panel.holoviz.org/)
 -  [Neo4j Graph Gists](https://neo4j.com/graphgists/)  
--  [Python Geospatial Tools] (https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
+-  [Python Geospatial Tools](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
 
 ## Data Visualization  
 - [Dataviz Project - Good Visuals ](https://datavizproject.com/)
