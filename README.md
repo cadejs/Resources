@@ -3,14 +3,14 @@ A collection of resources I have used and found useful in my work.  These will l
 
 # Papers
 
-## Decision Making
+### Decision Making
 - [Von Neumann-Morgenstern and Savage Theorems for Causal Decision Making](https://arxiv.org/abs/1907.11752) 
 - [The Society for Judgment and Decision Making](http://www.sjdm.org/)  
 -  [Overview of Bayesian Statistics](https://journals.sagepub.com/doi/10.1177/0193841X19895623)
 
-## Complexity
+### Complexity
 - [Predicting collapse of adaptive networked systems without knowing the network](https://www.santafe.edu/research/results/papers/7728-predicting-collapse-of-adaptive-networked-sys) 
-## Built Environment
+### Built Environment
 - [Urban growth and the emergent statistics of cities](https://www.santafe.edu/research/results/papers/7701-urban-growth-and-the-emergent-statistics-of-c)
 - [Mobility data reveals universal law of visitation in cities](https://www.santafe.edu/news-center/news/mobility-data-reveals-universal-law-visitation-cities)
 - [Scaling and universality in urban economic diversification](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0937)
@@ -19,7 +19,7 @@ A collection of resources I have used and found useful in my work.  These will l
 -  [Geocoding of Worldwide Patent Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTTBDX)  
 -  [MIT Sensible City Lab - Interesting Research/Visuals](https://senseable.mit.edu/) 
 -  [The persistence of ancient settlements and urban sustainability](https://www.pnas.org/content/118/20/e2018155118)
-## Remote Sensing
+### Remote Sensing
 -  [A surface network based method for studying urban hierarchies by night time light remote sensing data](https://www.tandfonline.com/doi/full/10.1080/13658816.2019.1585540?casa_token=ZtP2f8CHz2EAAAAA%3AWIvj_H0WjQR_nsMH3U7N_sAce-IYAQiTpk6GGHpYKa6opZ6AP87pxeqprGtWG7QAKHylsNcydOXP&)  
 -  [Mapping Urban Land Cover](https://gps.ucsd.edu/_files/faculty/hanson/hanson_research_RSOE_021517.pdf)
 -  [A review of remote sensing applications in urban planning and management in China](https://ieeexplore.ieee.org/document/5137653)  
@@ -30,7 +30,7 @@ A collection of resources I have used and found useful in my work.  These will l
 -  [NASA Black Marble Interesting Case Study](https://earthobservatory.nasa.gov/images/146481/nighttime-images-capture-change-in-china)  
 
 
-## Graph Analytics
+### Graph Analytics
 - [Julian Shun - Papers on Graph Analytics (Great Resource)](https://people.csail.mit.edu/jshun/graph.shtml)
 - [Mobility data reveals universal law of visitation in cities](https://www.santafe.edu/news-center/news/mobility-data-reveals-universal-law-visitation-cities)
 
